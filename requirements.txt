@@ -1,0 +1,4 @@
+farm-haystack[inference]
+datasets>=2.6.1
+python-dotenv
+chainlit
